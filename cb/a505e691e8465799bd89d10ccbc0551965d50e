@@ -1,0 +1,19 @@
+docs/multimedia-processing.md
+  s_2c863b3bfb807b::t_61eaf506d7712d 360
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cba505e691e8465799bd89d10ccbc0551965d50e",
+  "prompts": {},
+  "sessions": {
+    "s_2c863b3bfb807b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ecfe-1efc-7d62-8fb4-ccae18f2938c",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}
