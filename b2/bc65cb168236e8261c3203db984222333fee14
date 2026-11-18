@@ -1,0 +1,14 @@
+docs/multimedia-processing.md
+  h_da61ae801e8c5c 360
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b2bc65cb168236e8261c3203db984222333fee14",
+  "prompts": {},
+  "humans": {
+    "h_da61ae801e8c5c": {
+      "author": "Cyrus Kelly <101790022+cyruskelly@users.noreply.github.com>"
+    }
+  }
+}
